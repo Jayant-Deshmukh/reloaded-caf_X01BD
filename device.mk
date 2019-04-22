@@ -462,7 +462,7 @@ PRODUCT_PACKAGES += \
 
 # USB
 PRODUCT_PACKAGES += \
-	android.hardware.usb@1.0-service.basic
+	android.hardware.usb@1.0-service.X01BD
 
 # Vendor properties
 -include $(LOCAL_PATH)/vendor_prop.mk
